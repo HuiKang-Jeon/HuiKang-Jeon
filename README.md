@@ -38,7 +38,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📌 Projects
+# 📌 Projects
 **[반려견 호텔 예약·관리 플랫폼](https://github.com/wjsgnlrkd9822-design/MSA15_3-2.git)****(팀 프로젝트, 3인)**
 > 🚀 **서비스 설명**  
 > 필터링 기반 예약 시스템과 실시간 CCTV 모니터링, 반려견 상태 조회, 챗봇 기능 및 관리자 매출·호텔 서비스 관리 기능을 제공하는 애견 호텔 통합 웹 서비스
