@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 안녕하세요 전휘강입니다
+--------------------------------------------------
 
 <!--
 **wjsgnlrkd9822-design/wjsgnlrkd9822-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
