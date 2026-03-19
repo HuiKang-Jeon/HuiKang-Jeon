@@ -39,8 +39,8 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📌 Projects
-[반려견 호텔 예약·관리 플랫폼](https://github.com/wjsgnlrkd9822-design/MSA15_3-2.git)(팀 프로젝트, 3인)
-
+<spqn style="color:blue">[반려견 호텔 예약·관리 플랫폼](https://github.com/wjsgnlrkd9822-design/MSA15_3-2.git)</span>**(팀 프로젝트, 3인)**
+<span style="color:red">빨간 글씨</span>
 <!--
 **wjsgnlrkd9822-design/wjsgnlrkd9822-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
