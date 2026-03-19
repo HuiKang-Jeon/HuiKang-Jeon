@@ -40,8 +40,8 @@
 
 ## 📌 Projects
 **[반려견 호텔 예약·관리 플랫폼](https://github.com/wjsgnlrkd9822-design/MSA15_3-2.git)****(팀 프로젝트, 3인)**
->  필터링 기반 예약 시스템을 중심으로, 실시간 CCTV 모니터링, 반려견 상태조회, 챗봇 기능 제공
->  React, SpringBoot, MySQL
+> 필터링 기반 예약 시스템을 중심으로, 실시간 CCTV 모니터링, 반려견 상태조회, 챗봇 기능 제공  
+> React, Spring Boot, MySQL
 <!--
 **wjsgnlrkd9822-design/wjsgnlrkd9822-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
