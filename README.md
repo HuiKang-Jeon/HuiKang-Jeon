@@ -1,6 +1,7 @@
 ## 👋 안녕하세요 전휘강입니다
 --------------------------------------------------
 ### 🛠 Tech Stack
+---------------------------------------------------
 
 ### 🖥 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -25,6 +26,20 @@
 ![Servlet](https://img.shields.io/badge/JavaServlet-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge)
 ![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+
+### 🗄 Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🔌 API
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
 <!--
 **wjsgnlrkd9822-design/wjsgnlrkd9822-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
