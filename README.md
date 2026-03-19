@@ -1,6 +1,8 @@
 ## 👋 안녕하세요 전휘강입니다
 --------------------------------------------------
 ### 🛠 Tech Stack
+
+### 🖥 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -15,6 +17,14 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-BF0000?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![Servlet](https://img.shields.io/badge/JavaServlet-007396?style=for-the-badge&logo=java&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 <!--
 **wjsgnlrkd9822-design/wjsgnlrkd9822-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
