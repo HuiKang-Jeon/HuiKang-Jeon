@@ -48,6 +48,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
 
 # 📌 Projects
 **[PETHOTEL](https://github.com/wjsgnlrkd9822-design/MSA15_3-2.git)** **(팀 프로젝트, 3인)**
