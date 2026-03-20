@@ -45,6 +45,7 @@
 > 반려견 호텔 예약·관리 플랫폼  
 > **Tech Stack**  
 > React · Spring Boot · MySQL
+*담당파트*
 - 메인 페이지 UI 구성 및 서비스 소개 카드 렌더링, 예약 이동과 공지·CCTV·챗봇 모달 기능 구현
 - 날짜·견종·가격 필터 기반 객실 검색과 중복 예약 방지 기능을 포함한 예약 시스템 구현
 - 실시간 CCTV 모니터링, OpenAI 기반 챗봇 상담, 공지사항 모달 UI 및 상태 관리 기능 구현
@@ -57,6 +58,7 @@
 > 영화 리뷰 및 토너먼트 플랫폼  
 > **Tech Stack**  
 > JSP/Servlet · JQuery · MySQL
+*담당파트*
 - 무한 슬라이드 배너와 영화 목록 가로 슬라이드를 구현하고 DB 영화 데이터를 JSTL forEach로 카드 형태 렌더링
 - Servlet과 Service 계층을 활용하여 영화 상세 정보 조회 및 키워드 검색 기능 구현
 - Fisher-Yates Shuffle 기반 랜덤 영화 토너먼트와 라운드 진행 로직을 Vanilla JS로 구현
