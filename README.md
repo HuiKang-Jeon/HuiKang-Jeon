@@ -47,7 +47,7 @@
 > React · Spring Boot · MySQL
 
 **[Mobie](https://github.com/MoaisMoa/MSA15_1-.git)** **(팀 프로젝트, 4인)**
-> **서비스 설명**
+> **서비스 설명**  
 > 영화 리뷰 및 토너먼트 플랫폼  
 > **Tech Stack**  
 > Java JSP · MySQL  
