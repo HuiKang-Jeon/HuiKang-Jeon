@@ -66,7 +66,13 @@
 - Servlet과 Service 계층을 활용하여 영화 상세 정보 조회 및 키워드 검색 기능 구현
 - Fisher-Yates Shuffle 기반 랜덤 영화 토너먼트와 라운드 진행 로직을 Vanilla JS로 구현
 
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjsgnlrkd9822-design&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjsgnlrkd9822-design&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wjsgnlrkd9822-design&theme=react-dark)
 
 
 
