@@ -102,7 +102,7 @@ UI/UX 설계, 기능 구현, 데이터 연동, 모달/상호작용 기능을 전
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wjsgnlrkd9822-design&theme=react-dark)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=wjsgnlrkd9822-design&theme=radical)
+
 
 
 <!--
