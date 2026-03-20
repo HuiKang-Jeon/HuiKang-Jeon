@@ -70,10 +70,13 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjsgnlrkd9822-design&show_icons=true&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=wjsgnlrkd9822-design&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjsgnlrkd9822-design&layout=compact&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wjsgnlrkd9822-design&theme=react-dark)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=wjsgnlrkd9822-design&theme=radical)
 
 
 <!--
