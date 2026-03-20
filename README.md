@@ -56,6 +56,9 @@
 > 영화 리뷰 및 토너먼트 플랫폼  
 > **Tech Stack**  
 > JSP/Servlet · JQuery · MySQL
+- 무한 슬라이드 배너와 영화 목록 가로 슬라이드를 구현하고 DB 영화 데이터를 JSTL forEach로 카드 형태 렌더링
+- Servlet과 Service 계층을 활용하여 영화 상세 정보 조회 및 키워드 검색 기능 구현
+- Fisher-Yates Shuffle 기반 랜덤 영화 토너먼트와 라운드 진행 로직을 Vanilla JS로 구현
 
 
 
