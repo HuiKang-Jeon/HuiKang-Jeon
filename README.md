@@ -50,7 +50,7 @@
 > **서비스 설명**  
 > 영화 리뷰 및 토너먼트 플랫폼  
 > **Tech Stack**  
-> Java JSP · MySQL  
+> JSP/Servlet · JQuery · MySQL  
 
 
 
