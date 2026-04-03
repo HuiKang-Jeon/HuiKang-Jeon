@@ -24,7 +24,8 @@ UI/UX 설계, 기능 구현, 데이터 연동, 모달/상호작용 기능을 전
 가장 효율적인 해결책을 제시하고 구현할 수 있는 개발자가 되겠습니다.<br>
 
 
-**[✉Notion 포트폴리오✉](https://www.notion.so/3260610687ab80e59d5ee43b29104d2e?source=copy_link)**<br>
+**[✉Notion 포트폴리오✉](https://www.notion.so/3260610687ab80e59d5ee43b29104d2e?source=copy_link)**
+<br>
 --------
   
 ## 🛠 Tech Stack 🛠
